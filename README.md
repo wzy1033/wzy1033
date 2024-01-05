@@ -1,4 +1,5 @@
-- 👋 Hi, I’m 吴振扬
+# 👋 Hi
+- I’m Zhenyang Wu
 - 👀 I’m interested in Frontend and Algorithm
 - 🌱 I’m currently learning Vue,JavaScript,Machine Learning
 - 📫 How to reach me 1033090568@qq.com
